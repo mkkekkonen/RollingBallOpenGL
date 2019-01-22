@@ -2,4 +2,4 @@
 
 YouTube: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HmYZACF07E4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=HmYZACF07E4"><img src="http://i3.ytimg.com/vi/HmYZACF07E4/hqdefault.jpg" alt="YouTube video link" /></a>
